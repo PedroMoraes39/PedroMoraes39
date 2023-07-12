@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Pedro Caldeira 😁
 
-- 🔭 Hoje estou cursando Engenharia de Software 
-- 🌱 Estudando TypeScript e Python
 
 ##
 
